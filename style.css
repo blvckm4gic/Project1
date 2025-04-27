@@ -43,9 +43,9 @@
     }
 
     .getstarted{
-    background-color: #081E341F;
-    padding: 9px 17px;
-    border-radius: 100px;
+        background-color: #081E341F;
+        padding: 9px 17px;
+        border-radius: 100px;
     }
 
     .wapka{
@@ -75,7 +75,6 @@
         height: 181px;
     }
 
-
     .first{
         display: flex;
         justify-content: space-between;
@@ -89,12 +88,9 @@
         height: 181px;
     }
 
-
     .text{
         width: 500px;
     }
-
-
 
     .paragraph{
         font-family: "Kanit", sans-serif;
@@ -197,7 +193,6 @@
         margin-top: 24px;
     }
 
-
     .dva-text{
         font-weight: 700;
         font-size: 24px;
@@ -209,7 +204,6 @@
         font-size: 16px;
         margin-top: 24px;
     }
-
 
     .tri-text{
         font-weight: 700;
@@ -246,8 +240,6 @@
         font-size: 16px;
     }
 
-
-
     .search{
         margin-top: 32px;
         display: flex;
@@ -264,7 +256,6 @@
         color: #ffff;
     }
 
-
     .input-wrapper {
         position: relative;
         display: inline-block;
@@ -275,8 +266,6 @@
         height: 40px;
         font-size: 16px;
     }
-
-
 
     .poisk{
         width: 30px;
@@ -379,7 +368,6 @@
         border-top-right-radius: 32px;
         max-width: 1440px;
     }
-
 
     .footer-ul{
         list-style: none;
